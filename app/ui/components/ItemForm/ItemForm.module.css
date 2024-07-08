@@ -1,0 +1,9 @@
+.newItemForm .submitButton {
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.newItemForm .formTitle {
+    font-weight: 700;
+    font-size: 2rem;
+}
